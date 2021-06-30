@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-## Hey Yo this is commit 2
-
-## Hey Yo this is commit 3
 ## This is commit 1
 
 <!--
