@@ -1,5 +1,4 @@
 ### Hi there 👋
-## This is commit 3
 
 <!--
 **oofin008/oofin008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
