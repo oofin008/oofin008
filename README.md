@@ -1,4 +1,7 @@
-### Hi there 👋
+### Greetings 👋, My name is Aof
+![Profile views](https://gpvc.arturio.dev/oofin008)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=oofin008&show_icons=true)
 
 <!--
 **oofin008/oofin008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
