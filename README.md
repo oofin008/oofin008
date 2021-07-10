@@ -1,7 +1,10 @@
 ### Greetings 👋, My name is Aof
-![Profile views](https://gpvc.arturio.dev/oofin008)  
+![Profile views](https://gpvc.arturio.dev/oofin008)  ![Santi L](https://img.shields.io/badge/power%20by-Santi%20Liwsakphaiboon-blue)
+===
+![Github stats](https://github-readme-stats.vercel.app/api?username=oofin008&show_icons=true&count_private=true&bg_color=90,904e95,e96443&title_color=fff&text_color=fff&icon_color=fff)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=oofin008&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oofin008&card_width=445&layout=compact&bg_color=90,e96443,904e95&title_color=fff&text_color=fff)
+
 
 <!--
 **oofin008/oofin008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
